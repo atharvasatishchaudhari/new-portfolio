@@ -11,3 +11,7 @@ The website contains:
 - Education, publications, awards, teaching recognition, and professional credentials
 - A downloadable résumé and direct contact links
 - Responsive layouts for desktop, tablet, and mobile
+
+## Deployment
+
+The production portfolio is deployed automatically from the `main` branch through Vercel.
